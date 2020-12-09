@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Paulo Borges</Authors>
+    <Company>de Almeida Borges Consultant</Company>
+  </PropertyGroup>
+
+</Project>
